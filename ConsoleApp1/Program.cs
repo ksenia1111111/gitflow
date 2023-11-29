@@ -9,8 +9,13 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args)
+
         {
-            Console.WriteLine("My first git-repo");
+
+            {
+
+                Console.WriteLine("2004");
+            }
         }
     }
 }

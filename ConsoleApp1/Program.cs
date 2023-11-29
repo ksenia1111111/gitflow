@@ -9,8 +9,10 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Ksenia and Anzhelika");
+        {         
+
+            Console.WriteLine("2004");
+
         }
     }
 }
